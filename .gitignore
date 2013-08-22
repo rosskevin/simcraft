@@ -1,0 +1,12 @@
+
+*.dll
+*.exe
+*.avi
+*.manifest
+*.pdf
+*.dat
+*.txt
+*.ico
+*.log
+
+old/*

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<root>
+	<CraftCon>
+		<craftConVersion value="1.1"/>
+		<scInstalledGameModules>
+			<gameModule0 value="0"/>
+		</scInstalledGameModules>		
+		<Settings value="0">
+			<lastActiveModule value="-1"/>
+			<installPath value=""/>
+			<showGMP value="1"/>
+			<showCCP value="0"/>
+			<stopOnKeyStroke value="0"/>
+			<launchLastActive value="0"/>
+			<omcD value="-"/>
+			<omcU value="="/>
+			<oicD value="["/>
+			<oicU value="]"/>
+			<stopSim value="p"/>
+			<soundEffects value="0"/>
+			<classID value=""/>
+			<rauK value="w"/>
+			<radK value="q"/>
+			<pauK value="s"/>
+			<padK value="a"/>
+			<yauK value="x"/>
+			<yadK value="z"/>
+			<riuK value="r"/>
+			<ridK value="e"/>
+			<piuK value="f"/>
+			<pidK value="d"/>
+			<yiuK value="v"/>
+			<yidK value="c"/>
+			<ramuK value="y"/>
+			<ramdK value="t"/>
+			<pamuK value="h"/>
+			<pamdK value="g"/>
+			<yamuK value="n"/>
+			<yamdK value="b"/>
+			<romuK value="i"/>
+			<romdK value="u"/>
+			<pomuK value="k"/>
+			<pomdK value="j"/>
+			<yomuK value=","/>
+			<yomdK value="m"/>
+			<hud value="0"/>
+			<cI value="0"/>
+			<lastMotionProfile value=""/>
+			<updatesRequired value="0"/>
+			<continueUpdates value="0"/>
+			<lastModuleSelected value="0"/>
+			<launchJoyToKey value="0"/>
+		</Settings>
+	</CraftCon>
+	<CraftwarePC>
+		<Settings>
+			<lastSelectedGM value="-1"/>
+			<rollInstalled value="1"/>
+			<pitchInstalled value="1"/>
+			<yawInstalled value="0"/>
+			<comPort value="3"/>
+			<rollInit value="1"/>
+			<pitchInit value="1"/>
+			<yawInit value="0"/>
+			<rollHomePos value="10000"/>
+			<pitchHomePos value="10000"/>
+			<yawHomePos value="10000"/>
+			<rollIntensityControl value="1"/>
+			<pitchIntensityControl value="1"/>
+			<yawIntensityControl value="0"/>
+			<reverseRoll value="0"/>
+		</Settings>
+	</CraftwarePC>
+</root>

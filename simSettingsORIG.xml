@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<root>
+	<CraftCon>
+		<craftConVersion value="1.1"/>
+		<scInstalledGameModules>
+			<gameModule0 value="0"/>
+			<gameModule46 value="1"/>
+			<gameModule23 value="1"/>
+		</scInstalledGameModules>
+		<Settings value="0">
+			<lastActiveModule value="-1"/>
+			<installPath value="C:\Program Files (x86)\SimCraft\Craft Control Panel v2.0\"/>
+			<showGMP value="1"/>
+			<showCCP value="0"/>
+			<stopOnKeyStroke value="0"/>
+			<launchLastActive value="0"/>
+			<omcD value="-"/>
+			<omcU value="="/>
+			<oicD value="["/>
+			<oicU value="]"/>
+			<stopSim value="p"/>
+			<soundEffects value="0"/>
+			<classID value="2"/>
+			<rauK value="w"/>
+			<radK value="q"/>
+			<pauK value="s"/>
+			<padK value="a"/>
+			<yauK value="x"/>
+			<yadK value="z"/>
+			<riuK value="r"/>
+			<ridK value="e"/>
+			<piuK value="f"/>
+			<pidK value="d"/>
+			<yiuK value="v"/>
+			<yidK value="c"/>
+			<ramuK value="y"/>
+			<ramdK value="t"/>
+			<pamuK value="h"/>
+			<pamdK value="g"/>
+			<yamuK value="n"/>
+			<yamdK value="b"/>
+			<romuK value="i"/>
+			<romdK value="u"/>
+			<pomuK value="k"/>
+			<pomdK value="j"/>
+			<yomuK value=","/>
+			<yomdK value="m"/>
+			<hud value="0"/>
+			<cI value="0"/>
+			<lastMotionProfile value=""/>
+			<updatesRequired value="0"/>
+			<continueUpdates value="0"/>
+			<lastModuleSelected value="0"/>
+			<launchJoyToKey value="0"/>
+			<craftconSystemSetup value="1"/>
+		</Settings>
+	</CraftCon>
+	<CraftwarePC>
+		<Settings>
+			<lastSelectedGM value="23"/>
+			<rollInstalled value="1"/>
+			<pitchInstalled value="1"/>
+			<yawInstalled value="0"/>
+			<comPort value="5"/>
+			<rollInit value="1"/>
+			<pitchInit value="1"/>
+			<yawInit value="0"/>
+			<rollHomePos value="10000"/>
+			<pitchHomePos value="10000"/>
+			<yawHomePos value="10000"/>
+			<rollIntensityControl value="1"/>
+			<pitchIntensityControl value="1"/>
+			<yawIntensityControl value="0"/>
+			<reverseRoll value="0"/>
+			<rpmSim value="0"/>
+		</Settings>
+		<scGM46>
+			<Settings>
+				<aATP value="1"/>
+				<aMP value="35"/>
+				<aMR value="36"/>
+				<aMY value="100"/>
+				<aP value="1"/>
+				<dW value="0"/>
+				<gP value=""/>
+				<kG value="1"/>
+				<lE value="0"/>
+				<lG value="1"/>
+				<mAP value="10"/>
+				<mAR value="10"/>
+				<mAY value="10"/>
+				<mP value="4"/>
+				<oMP value="71"/>
+				<oMR value="71"/>
+				<oMY value="0"/>
+				<pAA value="105"/>
+				<pAV value="22500"/>
+				<pE value="1"/>
+				<pG value="1"/>
+				<pMR value="62"/>
+				<pPPD value="3000"/>
+				<pmm value="3"/>
+				<rAA value="52"/>
+				<rAV value="22500"/>
+				<rE value="1"/>
+				<rG value="1"/>
+				<rMR value="80"/>
+				<rPPD value="650"/>
+				<rRG value="0"/>
+				<sIM value="0"/>
+				<uPT value="0"/>
+				<uSAC value="0"/>
+				<uSIR value="0"/>
+				<uSI value="3000"/>
+				<uWT value="0"/>
+				<yAA value="10"/>
+				<yAV value="2250"/>
+				<yE value="1"/>
+				<yG value="1"/>
+				<yMR value="90"/>
+				<yPPD value="7500"/>
+				<pDAS value="5"/>
+				<pDAA value="50"/>
+				<pDA value="1"/>
+				<pDADA value="1"/>
+				<oMC value="16"/>
+				<oIC value="61"/>
+				<lP value="0"/>
+				<lPP value=""/>
+				<pROM value="100"/>
+				<rROM value="35"/>
+				<yROM value="20"/>
+				<dasr value="4"/>
+				<dasp value="2"/>
+				<dasy value="10"/>
+				<dafr value="1"/>
+				<dafp value="1"/>
+				<dafy value="1"/>
+				<ramc value="7"/>
+				<pamc value="7"/>
+				<yamc value="7"/>
+			</Settings>
+		</scGM46>
+		<scGM23>
+			<Settings>
+				<yMR value="25"/>
+				<yAA value="22"/>
+				<pE value="1"/>
+				<rE value="1"/>
+				<yE value="1"/>
+				<lE value="0"/>
+				<kG value="1"/>
+				<uSI value="3000"/>
+				<pMR value="55"/>
+				<lG value="1"/>
+				<mP value="4"/>
+				<gP value=""/>
+				<rAV value="22500"/>
+				<rPPD value="601"/>
+				<sIM value="0"/>
+				<pAV value="22500"/>
+				<pAA value="50"/>
+				<pPPD value="3000"/>
+				<yAV value="22500"/>
+				<yPPD value="601"/>
+				<pG value="1"/>
+				<uPT value="0"/>
+				<uWT value="0"/>
+				<aP value="1"/>
+				<rMR value="100"/>
+				<uSIR value="0"/>
+				<uSAC value="0"/>
+				<aATP value="1"/>
+				<aMP value="69"/>
+				<aMR value="35"/>
+				<yG value="1"/>
+				<dW value="0"/>
+				<mAY value="10"/>
+				<oMR value="70"/>
+				<aMY value="40"/>
+				<oMY value="0"/>
+				<mAP value="10"/>
+				<oMP value="69"/>
+				<rG value="1"/>
+				<rRG value="0"/>
+				<mAR value="10"/>
+				<rAA value="44"/>
+				<pitchG value="1"/>
+				<rollG value="1"/>
+				<yawG value="1"/>
+				<pmm value="3"/>
+				<pDA value="1"/>
+				<pDADA value="1"/>
+				<pDAS value="33"/>
+				<pDAA value="35"/>
+			</Settings>
+		</scGM23>
+	</CraftwarePC>
+</root>
