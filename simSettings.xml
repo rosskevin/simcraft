@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <root>
 	<CraftCon>
-		<craftConVersion value="1.1"/>
+		<craftConVersion value="v2.0.100"/>
 		<scInstalledGameModules>
 			<gameModule0 value="0"/>
 			<gameModule23 value="1"/>
@@ -56,6 +56,7 @@
 			<craftconSystemSetup value="1"/>
 			<mpupK value="3"/>
 			<mpdownK value="4"/>
+			<lastMotionProfile_23 value="iracing_ctsv"/>
 		</Settings>
 	</CraftCon>
 	<CraftwarePC>
