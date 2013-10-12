@@ -48,7 +48,7 @@
 			<yomdK value="m"/>
 			<hud value="1"/>
 			<cI value="0"/>
-			<lastMotionProfile value="iracing_mclaren_mp4-12c"/>
+			<lastMotionProfile value="iracing_skip"/>
 			<updatesRequired value="0"/>
 			<continueUpdates value="0"/>
 			<lastModuleSelected value="1"/>
@@ -56,7 +56,7 @@
 			<craftconSystemSetup value="1"/>
 			<mpupK value="3"/>
 			<mpdownK value="4"/>
-			<lastMotionProfile_23 value="iracing_mclaren_mp4-12c"/>
+			<lastMotionProfile_23 value="iracing_skip"/>
 		</Settings>
 	</CraftCon>
 	<CraftwarePC>
@@ -214,7 +214,7 @@
 				<lE value="0"/>
 				<kG value="1"/>
 				<uSI value="3000"/>
-				<pMR value="55"/>
+				<pMR value="60"/>
 				<lG value="1"/>
 				<mP value="4"/>
 				<gP value="https://members.iracing.com"/>
