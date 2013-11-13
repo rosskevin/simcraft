@@ -3,7 +3,7 @@
 <scGM23>
 	<Settings>
 		<yMR value="46"/>
-		<yAA value="27"/>
+		<yAA value="22"/>
 		<pE value="1"/>
 		<rE value="1"/>
 		<yE value="1"/>
@@ -13,12 +13,12 @@
 		<pMR value="60"/>
 		<lG value="1"/>
 		<mP value="4"/>
-		<gP value="https://members.iracing.com"/>
+		<gP value="http://"/>
 		<rAV value="22500"/>
 		<rPPD value="601"/>
 		<sIM value="0"/>
 		<pAV value="22500"/>
-		<pAA value="77"/>
+		<pAA value="57"/>
 		<pPPD value="1787"/>
 		<yAV value="22500"/>
 		<yPPD value="601"/>
@@ -43,7 +43,7 @@
 		<rG value="1"/>
 		<rRG value="0"/>
 		<mAR value="10"/>
-		<rAA value="65"/>
+		<rAA value="55"/>
 		<pitchG value="1"/>
 		<rollG value="1"/>
 		<yawG value="1"/>
@@ -51,8 +51,8 @@
 		<pDA value="1"/>
 		<pDAS value="5"/>
 		<pDAA value="35"/>
-		<oMC value="44"/>
-		<oIC value="21"/>
+		<oMC value="59"/>
+		<oIC value="26"/>
 		<lP value="0"/>
 		<lPP value=""/>
 		<pDADA value="1"/>
