@@ -345,14 +345,14 @@
 		<scGM23>
 			<Settings>
 				<yMR value="46"/>
-				<yAA value="22"/>
+				<yAA value="27"/>
 				<pE value="1"/>
 				<rE value="1"/>
 				<yE value="1"/>
 				<lE value="0"/>
 				<kG value="1"/>
 				<uSI value="3000"/>
-				<pMR value="60"/>
+				<pMR value="100"/>
 				<lG value="1"/>
 				<mP value="4"/>
 				<gP value="http://"/>
@@ -360,7 +360,7 @@
 				<rPPD value="601"/>
 				<sIM value="0"/>
 				<pAV value="22500"/>
-				<pAA value="52"/>
+				<pAA value="76"/>
 				<pPPD value="1787"/>
 				<yAV value="22500"/>
 				<yPPD value="601"/>
@@ -372,7 +372,7 @@
 				<uSIR value="0"/>
 				<uSAC value="0"/>
 				<aATP value="1"/>
-				<aMP value="94"/>
+				<aMP value="74"/>
 				<aMR value="65"/>
 				<yG value="1"/>
 				<dW value="0"/>
@@ -381,7 +381,7 @@
 				<aMY value="25"/>
 				<oMY value="0"/>
 				<mAP value="10"/>
-				<oMP value="69"/>
+				<oMP value="75"/>
 				<rG value="1"/>
 				<rRG value="0"/>
 				<mAR value="10"/>
