@@ -2,8 +2,8 @@
 <root>
 <scGM23>
 	<Settings>
-		<yMR value="46"/>
-		<yAA value="27"/>
+		<yMR value="56"/>
+		<yAA value="37"/>
 		<pE value="1"/>
 		<rE value="1"/>
 		<yE value="1"/>
@@ -18,7 +18,7 @@
 		<rPPD value="601"/>
 		<sIM value="0"/>
 		<pAV value="22500"/>
-		<pAA value="76"/>
+		<pAA value="96"/>
 		<pPPD value="1787"/>
 		<yAV value="22500"/>
 		<yPPD value="601"/>
@@ -43,7 +43,7 @@
 		<rG value="1"/>
 		<rRG value="0"/>
 		<mAR value="10"/>
-		<rAA value="45"/>
+		<rAA value="65"/>
 		<pitchG value="1"/>
 		<rollG value="1"/>
 		<yawG value="1"/>
@@ -52,7 +52,7 @@
 		<pDAS value="5"/>
 		<pDAA value="35"/>
 		<oMC value="64"/>
-		<oIC value="31"/>
+		<oIC value="56"/>
 		<lP value="0"/>
 		<lPP value=""/>
 		<pDADA value="1"/>

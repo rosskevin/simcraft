@@ -51,7 +51,7 @@
 			<yomdK value="m"/>
 			<hud value="1"/>
 			<cI value="0"/>
-			<lastMotionProfile value="iracing_ruf_track"/>
+			<lastMotionProfile value="iracing_skip2"/>
 			<updatesRequired value="0"/>
 			<continueUpdates value="0"/>
 			<lastModuleSelected value="0"/>
@@ -59,7 +59,7 @@
 			<craftconSystemSetup value="1"/>
 			<mpupK value="3"/>
 			<mpdownK value="4"/>
-			<lastMotionProfile_23 value="iracing_ruf_track"/>
+			<lastMotionProfile_23 value="iracing_skip2"/>
 			<lastMotionProfile_17 value="iracing_skip"/>
 			<lastMotionProfile_45 value="iracing_skip_converted for rFactor 2"/>
 			<adjustmentSoundEffects value="1"/>
@@ -353,14 +353,14 @@
 		<scGM23>
 			<Settings>
 				<yMR value="56"/>
-				<yAA value="27"/>
+				<yAA value="37"/>
 				<pE value="1"/>
 				<rE value="1"/>
 				<yE value="1"/>
 				<lE value="0"/>
 				<kG value="1"/>
 				<uSI value="3000"/>
-				<pMR value="80"/>
+				<pMR value="100"/>
 				<lG value="1"/>
 				<mP value="4"/>
 				<gP value="http://"/>
@@ -368,7 +368,7 @@
 				<rPPD value="601"/>
 				<sIM value="0"/>
 				<pAV value="22500"/>
-				<pAA value="76"/>
+				<pAA value="96"/>
 				<pPPD value="1787"/>
 				<yAV value="22500"/>
 				<yPPD value="601"/>
@@ -376,24 +376,24 @@
 				<uPT value="0"/>
 				<uWT value="0"/>
 				<aP value="1"/>
-				<rMR value="100"/>
+				<rMR value="95"/>
 				<uSIR value="0"/>
 				<uSAC value="0"/>
 				<aATP value="1"/>
-				<aMP value="69"/>
-				<aMR value="80"/>
+				<aMP value="74"/>
+				<aMR value="65"/>
 				<yG value="1"/>
 				<dW value="0"/>
 				<mAY value="10"/>
 				<oMR value="80"/>
-				<aMY value="25"/>
+				<aMY value="30"/>
 				<oMY value="0"/>
 				<mAP value="10"/>
-				<oMP value="70"/>
+				<oMP value="75"/>
 				<rG value="1"/>
 				<rRG value="0"/>
 				<mAR value="10"/>
-				<rAA value="45"/>
+				<rAA value="65"/>
 				<pitchG value="1"/>
 				<rollG value="1"/>
 				<yawG value="1"/>
@@ -402,7 +402,7 @@
 				<pDAS value="5"/>
 				<pDAA value="35"/>
 				<oMC value="64"/>
-				<oIC value="31"/>
+				<oIC value="56"/>
 				<lP value="0"/>
 				<lPP value=""/>
 				<pDADA value="1"/>
