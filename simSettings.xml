@@ -51,7 +51,7 @@
 			<yomdK value="m"/>
 			<hud value="1"/>
 			<cI value="0"/>
-			<lastMotionProfile value="iracing_ruf2"/>
+			<lastMotionProfile value="iracing_skip2"/>
 			<updatesRequired value="0"/>
 			<continueUpdates value="0"/>
 			<lastModuleSelected value="0"/>
@@ -59,7 +59,7 @@
 			<craftconSystemSetup value="1"/>
 			<mpupK value="3"/>
 			<mpdownK value="4"/>
-			<lastMotionProfile_23 value="iracing_ruf2"/>
+			<lastMotionProfile_23 value="iracing_skip2"/>
 			<lastMotionProfile_17 value="iracing_skip"/>
 			<lastMotionProfile_45 value="iracing_skip_converted for rFactor 2"/>
 			<adjustmentSoundEffects value="1"/>
@@ -360,7 +360,7 @@
 				<lE value="0"/>
 				<kG value="1"/>
 				<uSI value="3000"/>
-				<pMR value="100"/>
+				<pMR value="80"/>
 				<lG value="1"/>
 				<mP value="4"/>
 				<gP value="http://"/>
