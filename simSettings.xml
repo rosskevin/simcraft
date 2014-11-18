@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <root>
 	<CraftCon>
-		<craftConVersion value="v2.0.100"/>
+		<craftConVersion value="v2.2.005"/>
 		<scInstalledGameModules>
 			<gameModule0 value="0"/>
 			<gameModule23 value="1"/>
@@ -14,7 +14,7 @@
 		<Settings value="0">
 			<lastActiveModule value="iRacing.com Motorsport Simulations 1.0"/>
 			<installPath value="C:\Users\Camacho\Dropbox\racing\apps\Simcraft\"/>
-			<showGMP value="0"/>
+			<showGMP value="1"/>
 			<showCCP value="0"/>
 			<stopOnKeyStroke value="0"/>
 			<launchLastActive value="0"/>
@@ -49,9 +49,9 @@
 			<pomdK value="j"/>
 			<yomuK value=","/>
 			<yomdK value="m"/>
-			<hud value="1"/>
+			<hud value="0"/>
 			<cI value="0"/>
-			<lastMotionProfile value="iracing_skip2"/>
+			<lastMotionProfile value="hpd"/>
 			<updatesRequired value="0"/>
 			<continueUpdates value="0"/>
 			<lastModuleSelected value="0"/>
@@ -59,11 +59,12 @@
 			<craftconSystemSetup value="1"/>
 			<mpupK value="3"/>
 			<mpdownK value="4"/>
-			<lastMotionProfile_23 value="iracing_skip2"/>
+			<lastMotionProfile_23 value="hpd"/>
 			<lastMotionProfile_17 value="iracing_skip"/>
-			<lastMotionProfile_45 value="iracing_skip_converted for rFactor 2"/>
+			<lastMotionProfile_45 value="Copy your profiles to the motionProfiles folder"/>
 			<adjustmentSoundEffects value="1"/>
-			<lastMotionProfile_49 value="iracing_skip2_converted for Assetto Corsa"/>
+			<lastMotionProfile_49 value="ASSETTO_defaultProfile"/>
+			<jumpID value="-1"/>
 		</Settings>
 	</CraftCon>
 	<CraftwarePC>
@@ -72,7 +73,7 @@
 			<rollInstalled value="1"/>
 			<pitchInstalled value="1"/>
 			<yawInstalled value="1"/>
-			<comPort value="5"/>
+			<comPort value="4"/>
 			<rollInit value="1"/>
 			<pitchInit value="1"/>
 			<yawInit value="1"/>
@@ -342,14 +343,6 @@
 				<ais value="0"/>
 			</Settings>
 		</scGM45>
-		<scGM49>
-			<Settings>
-				<gP value=" "/>
-				<lG value="0"/>
-				<oMC value="30"/>
-				<oIC value="60"/>
-			</Settings>
-		</scGM49>
 		<scGM23>
 			<Settings>
 				<yMR value="51"/>
@@ -360,7 +353,7 @@
 				<lE value="0"/>
 				<kG value="1"/>
 				<uSI value="3000"/>
-				<pMR value="80"/>
+				<pMR value="50"/>
 				<lG value="1"/>
 				<mP value="4"/>
 				<gP value="http://"/>
@@ -368,7 +361,7 @@
 				<rPPD value="601"/>
 				<sIM value="0"/>
 				<pAV value="22500"/>
-				<pAA value="96"/>
+				<pAA value="86"/>
 				<pPPD value="1787"/>
 				<yAV value="22500"/>
 				<yPPD value="601"/>
@@ -376,20 +369,20 @@
 				<uPT value="0"/>
 				<uWT value="0"/>
 				<aP value="1"/>
-				<rMR value="95"/>
+				<rMR value="50"/>
 				<uSIR value="0"/>
 				<uSAC value="0"/>
 				<aATP value="1"/>
-				<aMP value="74"/>
-				<aMR value="70"/>
+				<aMP value="34"/>
+				<aMR value="34"/>
 				<yG value="1"/>
 				<dW value="0"/>
 				<mAY value="10"/>
-				<oMR value="80"/>
+				<oMR value="70"/>
 				<aMY value="30"/>
 				<oMY value="0"/>
 				<mAP value="10"/>
-				<oMP value="75"/>
+				<oMP value="100"/>
 				<rG value="1"/>
 				<rRG value="0"/>
 				<mAR value="10"/>
@@ -402,7 +395,7 @@
 				<pDAS value="5"/>
 				<pDAA value="35"/>
 				<oMC value="64"/>
-				<oIC value="56"/>
+				<oIC value="86"/>
 				<lP value="0"/>
 				<lPP value=""/>
 				<pDADA value="1"/>
@@ -416,7 +409,114 @@
 				<ramc value="7"/>
 				<pamc value="7"/>
 				<yamc value="7"/>
+				<pROM value="100"/>
+				<rROM value="100"/>
+				<yROM value="100"/>
+				<dassg value="2"/>
+				<dassy value="2"/>
+				<dash value="2"/>
+				<dafsg value="1"/>
+				<dafsy value="1"/>
+				<dafh value="1"/>
+				<sgamc value="7"/>
+				<syamc value="7"/>
+				<hamc value="7"/>
 			</Settings>
 		</scGM23>
+		<scGM49>
+			<Settings>
+				<gP value=" "/>
+				<lG value="1"/>
+				<oMC value="100"/>
+				<oIC value="100"/>
+				<pROM value="100"/>
+				<pE value="0"/>
+				<pG value="1"/>
+				<aMP value="33"/>
+				<oMP value="100"/>
+				<rROM value="100"/>
+				<rE value="0"/>
+				<rRG value="1"/>
+				<rG value="1"/>
+				<aMR value="19"/>
+				<oMR value="100"/>
+				<yROM value="100"/>
+				<yE value="1"/>
+				<yG value="1"/>
+				<aMY value="34"/>
+				<oMY value="0"/>
+				<sgE value="0"/>
+				<aMSG value="34"/>
+				<oMSG value="0"/>
+				<syE value="0"/>
+				<aMSY value="34"/>
+				<oMSY value="0"/>
+				<hE value="0"/>
+				<aMH value="34"/>
+				<oMH value="0"/>
+				<dW value="0"/>
+				<lE value="0"/>
+				<pmm value="0"/>
+				<pDA value="1"/>
+				<pDADA value="1"/>
+				<pDAS value="0"/>
+				<pDAA value="0"/>
+				<pMR value="91"/>
+				<pAA value="40"/>
+				<pAD value="50"/>
+				<rMR value="53"/>
+				<rAA value="40"/>
+				<rAD value="50"/>
+				<yMR value="50"/>
+				<yAA value="30"/>
+				<yAD value="50"/>
+				<sgMR value="0"/>
+				<sgAA value="0"/>
+				<sgAD value="50"/>
+				<syMR value="0"/>
+				<syAA value="0"/>
+				<syAD value="50"/>
+				<hMR value="0"/>
+				<AA value="0"/>
+				<hAD value="50"/>
+				<rAV value="22500"/>
+				<pAV value="22500"/>
+				<yAV value="22500"/>
+				<uWT value="0"/>
+				<uSIR value="1"/>
+				<aP value="1"/>
+				<rPPD value="650"/>
+				<pPPD value="1600"/>
+				<dasr value="2"/>
+				<dasp value="2"/>
+				<dafr value="2"/>
+				<dafp value="3"/>
+				<ramc value="7"/>
+				<pamc value="7"/>
+				<yPPD value="650"/>
+				<dasy value="1"/>
+				<dafy value="1"/>
+				<yamc value="7"/>
+				<sgAV value="0"/>
+				<sgPPD value="0"/>
+				<dassg value="2"/>
+				<dafsg value="1"/>
+				<sgamc value="7"/>
+				<syAV value="0"/>
+				<syPPD value="0"/>
+				<dassy value="2"/>
+				<dafsy value="1"/>
+				<syamc value="7"/>
+				<hAV value="0"/>
+				<hPPD value="0"/>
+				<dash value="2"/>
+				<dafh value="1"/>
+				<hamc value="7"/>
+				<lP value="0"/>
+				<mP value="0"/>
+				<lPP value=""/>
+				<ais value="0"/>
+			</Settings>
+		</scGM49>
 	</CraftwarePC>
 </root>
