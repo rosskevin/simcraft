@@ -10,10 +10,11 @@
 			<gameModule17 value="0"/>
 			<gameModule45 value="1"/>
 			<gameModule49 value="1"/>
+			<gameModule50 value="1"/>
 		</scInstalledGameModules>
 		<Settings value="0">
 			<lastActiveModule value="iRacing.com Motorsport Simulations 1.0"/>
-			<installPath value="C:\Users\Camacho\Dropbox\racing\apps\Simcraft\"/>
+			<installPath value="C:\Users\Kevin\Dropbox\racing\apps\Simcraft\"/>
 			<showGMP value="1"/>
 			<showCCP value="0"/>
 			<stopOnKeyStroke value="0"/>
@@ -506,5 +507,10 @@
 				<yamc value="7"/>
 			</Settings>
 		</scGM23>
+		<scGM50>
+			<Settings>
+				<gP value="C:\Program Files (x86)\Steam\steamapps\common\The Crew\TheCrew.exe"/>
+			</Settings>
+		</scGM50>
 	</CraftwarePC>
 </root>
