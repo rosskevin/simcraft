@@ -52,7 +52,7 @@
 			<yomdK value="m"/>
 			<hud value="0"/>
 			<cI value="0"/>
-			<lastMotionProfile value="hpd"/>
+			<lastMotionProfile value="iRacing_HDP"/>
 			<updatesRequired value="0"/>
 			<continueUpdates value="0"/>
 			<lastModuleSelected value="0"/>
@@ -60,7 +60,7 @@
 			<craftconSystemSetup value="1"/>
 			<mpupK value="3"/>
 			<mpdownK value="4"/>
-			<lastMotionProfile_23 value="hpd"/>
+			<lastMotionProfile_23 value="iRacing_HDP"/>
 			<lastMotionProfile_17 value="iracing_skip"/>
 			<lastMotionProfile_45 value="Copy your profiles to the motionProfiles folder"/>
 			<adjustmentSoundEffects value="1"/>
@@ -74,7 +74,7 @@
 			<rollInstalled value="1"/>
 			<pitchInstalled value="1"/>
 			<yawInstalled value="1"/>
-			<comPort value="4"/>
+			<comPort value="3"/>
 			<rollInit value="1"/>
 			<pitchInit value="1"/>
 			<yawInit value="1"/>
@@ -439,50 +439,55 @@
 				<ais value="0"/>
 			</Settings>
 		</scGM49>
+		<scGM50>
+			<Settings>
+				<gP value="C:\Program Files (x86)\Steam\steamapps\common\The Crew\TheCrew.exe"/>
+			</Settings>
+		</scGM50>
 		<scGM23>
 			<Settings>
-				<yMR value="51"/>
-				<yAA value="37"/>
+				<yMR value="17"/>
+				<yAA value="11"/>
 				<pE value="1"/>
 				<rE value="1"/>
 				<yE value="1"/>
 				<lE value="0"/>
 				<kG value="1"/>
 				<uSI value="3000"/>
-				<pMR value="50"/>
+				<pMR value="87"/>
 				<lG value="1"/>
 				<mP value="4"/>
-				<gP value="http://"/>
+				<gP value="http://members.iracing.com"/>
 				<rAV value="22500"/>
 				<rPPD value="601"/>
 				<sIM value="0"/>
 				<pAV value="22500"/>
-				<pAA value="86"/>
-				<pPPD value="1787"/>
+				<pAA value="100"/>
+				<pPPD value="1858"/>
 				<yAV value="22500"/>
 				<yPPD value="601"/>
 				<pG value="1"/>
 				<uPT value="0"/>
 				<uWT value="0"/>
 				<aP value="1"/>
-				<rMR value="60"/>
+				<rMR value="79"/>
 				<uSIR value="0"/>
 				<uSAC value="0"/>
 				<aATP value="1"/>
-				<aMP value="34"/>
-				<aMR value="34"/>
+				<aMP value="42"/>
+				<aMR value="66"/>
 				<yG value="1"/>
 				<dW value="0"/>
 				<mAY value="10"/>
 				<oMR value="70"/>
-				<aMY value="30"/>
+				<aMY value="45"/>
 				<oMY value="0"/>
 				<mAP value="10"/>
-				<oMP value="100"/>
+				<oMP value="94"/>
 				<rG value="1"/>
 				<rRG value="0"/>
 				<mAR value="10"/>
-				<rAA value="65"/>
+				<rAA value="34"/>
 				<pitchG value="1"/>
 				<rollG value="1"/>
 				<yawG value="1"/>
@@ -490,11 +495,11 @@
 				<pDA value="1"/>
 				<pDAS value="5"/>
 				<pDAA value="35"/>
-				<oMC value="64"/>
-				<oIC value="66"/>
+				<pDADA value="1"/>
+				<oMC value="33"/>
+				<oIC value="21"/>
 				<lP value="0"/>
 				<lPP value=""/>
-				<pDADA value="1"/>
 				<ais value="0"/>
 				<dasr value="4"/>
 				<dasp value="2"/>
@@ -505,12 +510,19 @@
 				<ramc value="7"/>
 				<pamc value="7"/>
 				<yamc value="7"/>
+				<pROM value="100"/>
+				<rROM value="100"/>
+				<yROM value="100"/>
+				<dassg value="2"/>
+				<dassy value="2"/>
+				<dash value="2"/>
+				<dafsg value="1"/>
+				<dafsy value="1"/>
+				<dafh value="1"/>
+				<sgamc value="7"/>
+				<syamc value="7"/>
+				<hamc value="7"/>
 			</Settings>
 		</scGM23>
-		<scGM50>
-			<Settings>
-				<gP value="C:\Program Files (x86)\Steam\steamapps\common\The Crew\TheCrew.exe"/>
-			</Settings>
-		</scGM50>
 	</CraftwarePC>
 </root>
