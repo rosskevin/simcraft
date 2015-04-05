@@ -1,23 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <root>
 <scGM23>
 	<Settings>
-		<yMR value="46"/>
-		<yAA value="22"/>
+		<yMR value="51"/>
+		<yAA value="37"/>
 		<pE value="1"/>
 		<rE value="1"/>
 		<yE value="1"/>
 		<lE value="0"/>
 		<kG value="1"/>
 		<uSI value="3000"/>
-		<pMR value="60"/>
+		<pMR value="50"/>
 		<lG value="1"/>
 		<mP value="4"/>
-		<gP value="https://members.iracing.com"/>
+		<gP value="http://"/>
 		<rAV value="22500"/>
 		<rPPD value="601"/>
 		<sIM value="0"/>
 		<pAV value="22500"/>
-		<pAA value="72"/>
+		<pAA value="86"/>
 		<pPPD value="1787"/>
 		<yAV value="22500"/>
 		<yPPD value="601"/>
@@ -25,24 +26,24 @@
 		<uPT value="0"/>
 		<uWT value="0"/>
 		<aP value="1"/>
-		<rMR value="100"/>
+		<rMR value="60"/>
 		<uSIR value="0"/>
 		<uSAC value="0"/>
 		<aATP value="1"/>
-		<aMP value="69"/>
-		<aMR value="35"/>
+		<aMP value="34"/>
+		<aMR value="34"/>
 		<yG value="1"/>
 		<dW value="0"/>
 		<mAY value="10"/>
 		<oMR value="70"/>
-		<aMY value="40"/>
+		<aMY value="30"/>
 		<oMY value="0"/>
 		<mAP value="10"/>
-		<oMP value="69"/>
+		<oMP value="100"/>
 		<rG value="1"/>
 		<rRG value="0"/>
 		<mAR value="10"/>
-		<rAA value="100"/>
+		<rAA value="65"/>
 		<pitchG value="1"/>
 		<rollG value="1"/>
 		<yawG value="1"/>
@@ -50,11 +51,21 @@
 		<pDA value="1"/>
 		<pDAS value="5"/>
 		<pDAA value="35"/>
-		<oMC value="39"/>
+		<oMC value="64"/>
 		<oIC value="66"/>
 		<lP value="0"/>
 		<lPP value=""/>
 		<pDADA value="1"/>
+		<ais value="0"/>
+		<dasr value="4"/>
+		<dasp value="2"/>
+		<dasy value="2"/>
+		<dafr value="1"/>
+		<dafp value="1"/>
+		<dafy value="1"/>
+		<ramc value="7"/>
+		<pamc value="7"/>
+		<yamc value="7"/>
 	</Settings>
 </scGM23>
 </root>
