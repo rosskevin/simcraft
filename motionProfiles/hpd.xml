@@ -10,7 +10,7 @@
 		<lE value="0"/>
 		<kG value="1"/>
 		<uSI value="3000"/>
-		<pMR value="50"/>
+		<pMR value="95"/>
 		<lG value="1"/>
 		<mP value="4"/>
 		<gP value="http://"/>
@@ -18,7 +18,7 @@
 		<rPPD value="601"/>
 		<sIM value="0"/>
 		<pAV value="22500"/>
-		<pAA value="86"/>
+		<pAA value="101"/>
 		<pPPD value="1787"/>
 		<yAV value="22500"/>
 		<yPPD value="601"/>
@@ -30,7 +30,7 @@
 		<uSIR value="0"/>
 		<uSAC value="0"/>
 		<aATP value="1"/>
-		<aMP value="34"/>
+		<aMP value="39"/>
 		<aMR value="34"/>
 		<yG value="1"/>
 		<dW value="0"/>
@@ -51,7 +51,7 @@
 		<pDA value="1"/>
 		<pDAS value="5"/>
 		<pDAA value="35"/>
-		<oMC value="64"/>
+		<oMC value="79"/>
 		<oIC value="66"/>
 		<lP value="0"/>
 		<lPP value=""/>
@@ -66,6 +66,18 @@
 		<ramc value="7"/>
 		<pamc value="7"/>
 		<yamc value="7"/>
+		<pROM value="100"/>
+		<rROM value="100"/>
+		<yROM value="100"/>
+		<dassg value="2"/>
+		<dassy value="2"/>
+		<dash value="2"/>
+		<dafsg value="1"/>
+		<dafsy value="1"/>
+		<dafh value="1"/>
+		<sgamc value="7"/>
+		<syamc value="7"/>
+		<hamc value="7"/>
 	</Settings>
 </scGM23>
 </root>
