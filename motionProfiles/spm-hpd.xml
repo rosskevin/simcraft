@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <root>
-<scGM23>
+<scGM44>
 	<Settings>
 		<yMR value="51"/>
 		<yAA value="37"/>
@@ -67,5 +67,6 @@
 		<pamc value="7"/>
 		<yamc value="7"/>
 	</Settings>
-</scGM23>
+</scGM44>
 </root>
+
