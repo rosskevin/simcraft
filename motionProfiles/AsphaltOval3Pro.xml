@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<root>
+<scGM44>
+	<Settings>
+		<aATP value="1"/>
+		<aMP value="16"/>
+		<aMR value="30"/>
+		<aMY value="15"/>
+		<aP value="1"/>
+		<dW value="0"/>
+		<gP value="http://members.iracing.com"/>
+		<kG value="1"/>
+		<lE value="0"/>
+		<lG value="0"/>
+		<mAP value="10"/>
+		<mAR value="10"/>
+		<mAY value="10"/>
+		<mP value="0"/>
+		<oMP value="100"/>
+		<oMR value="100"/>
+		<oMY value="0"/>
+		<pAA value="180"/>
+		<pAV value="22500"/>
+		<pDAA value="1"/>
+		<pDAS value="1"/>
+		<pDA value="1"/>
+		<pE value="1"/>
+		<pG value="1"/>
+		<pMR value="100"/>
+		<pPPD value="1572"/>
+		<pmm value="3"/>
+		<rAA value="140"/>
+		<rAV value="22500"/>
+		<rE value="1"/>
+		<rG value="1"/>
+		<rMR value="30"/>
+		<rPPD value="715"/>
+		<rRG value="0"/>
+		<sIM value="0"/>
+		<uPT value="0"/>
+		<uSAC value="0"/>
+		<uSIR value="1"/>
+		<uSI value="3000"/>
+		<uWT value="0"/>
+		<yAA value="100"/>
+		<yAV value="22500"/>
+		<yE value="1"/>
+		<yG value="1"/>
+		<yMR value="25"/>
+		<yPPD value="787"/>
+		<pDADA value="1"/>
+		<oMC value="55"/>
+		<oIC value="40"/>
+		<lP value="0"/>
+		<lPP value="C:\Program Files (x86)\zBlueSoftware\Z1 Dashboard\Z1Dashboard.exe"/>
+		<pROM value="100"/>
+		<rROM value="35"/>
+		<yROM value="70"/>
+		<dasr value="3"/>
+		<dasp value="4"/>
+		<dasy value="2"/>
+		<dafr value="1"/>
+		<dafp value="1"/>
+		<dafy value="1"/>
+		<ramc value="7"/>
+		<pamc value="7"/>
+		<yamc value="5"/>
+		<ais value="0"/>
+		<dasry value="1"/>
+		<sgE value="0"/>
+		<aMSG value="15"/>
+		<oMSG value="0"/>
+		<syE value="0"/>
+		<aMSY value="40"/>
+		<oMSY value="0"/>
+		<hE value="0"/>
+		<aMH value="34"/>
+		<oMH value="0"/>
+		<dassg value="1"/>
+		<dassy value="1"/>
+		<dash value="2"/>
+		<dafsg value="4"/>
+		<dafsy value="4"/>
+		<dafh value="1"/>
+		<sgamc value="3"/>
+		<syamc value="3"/>
+		<hamc value="7"/>
+		<pAD value="50"/>
+		<rAD value="50"/>
+		<yAD value="50"/>
+		<sgMR value="65"/>
+		<sgAA value="15"/>
+		<sgAD value="50"/>
+		<syMR value="65"/>
+		<syAA value="15"/>
+		<syAD value="50"/>
+		<hMR value="0"/>
+		<AA value="0"/>
+		<hAD value="50"/>
+		<sgAV value="0"/>
+		<syAV value="0"/>
+		<sgPPD value="0"/>
+		<syPPD value="0"/>
+		<hAV value="0"/>
+		<hPPD value="0"/>
+		<dasrsg value="4"/>
+		<dasrsy value="4"/>
+		<uTAV value="0"/>
+		<minS value="0"/>
+		<maxS value="0"/>
+		<rVC value="0"/>
+		<pVC value="0"/>
+		<yVC value="0"/>
+	</Settings>
+</scGM44>
+</root>
