@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <root>
 	<CraftCon>
-		<craftConVersion value="1.1"/>
+		<craftConVersion value="v2.7.000"/>
 		<scInstalledGameModules>
 			<gameModule0 value="0"/>
 		</scInstalledGameModules>		
@@ -16,7 +16,7 @@
 			<omcU value="="/>
 			<oicD value="["/>
 			<oicU value="]"/>
-			<stopSim value="p"/>
+			<stopSim value=" "/>
 			<soundEffects value="0"/>
 			<classID value=""/>
 			<rauK value="w"/>
@@ -50,6 +50,13 @@
 			<continueUpdates value="0"/>
 			<lastModuleSelected value="0"/>
 			<launchJoyToKey value="0"/>
+			<craftconSystemSetup value="0"/>
+			<adjustmentSoundEffects value="0"/>
+			<mpupK value="&apos;"/>
+			<mpdownK value=";"/>
+			<jumpID value="-1"/>
+			<FASMotion value="1"/>
+			<promptToInit value="1"/>
 		</Settings>
 	</CraftCon>
 	<CraftwarePC>
@@ -69,6 +76,22 @@
 			<pitchIntensityControl value="1"/>
 			<yawIntensityControl value="0"/>
 			<reverseRoll value="0"/>
+			<rpmSim value="0"/>
+			<reversePitch value="0"/>
+			<reverseYaw value="0"/>
+			<rollAmplitudeControl value="1"/>
+			<pitchAmplitudeControl value="1"/>
+			<yawAmplitudeControl value="0"/>
+			<reverseSurge value="0"/>
+			<reverseSway value="0"/>
+			<reverseHeave value="0"/>
+			<surgeInstalled value="0"/>
+			<swayInstalled value="0"/>
+			<heaveInstalled value="0"/>
+			<surgeInit value="0"/>
+			<swayInit value="0"/>
+			<heaveInit value="0"/>
+			<FASMotion value="0"/>
 		</Settings>
 	</CraftwarePC>
 </root>
