@@ -1,5 +1,7 @@
-
+*.bmp
+*.jpg
 *.dll
+*.dll.tmp
 *.exe
 *.avi
 *.manifest
