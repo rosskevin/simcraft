@@ -46,7 +46,7 @@
 			<yomdK value="m"/>
 			<hud value="0"/>
 			<cI value="0"/>
-			<lastMotionProfile value="AsphaltRoadCourse4Expert"/>
+			<lastMotionProfile value="AsphaltRoadCourse1Starter"/>
 			<updatesRequired value="0"/>
 			<continueUpdates value="0"/>
 			<lastModuleSelected value="0"/>
@@ -62,9 +62,10 @@
 			<usbRelayPresent value="0"/>
 			<enablePark value="0"/>
 			<eStop value="0"/>
-			<lastMotionProfile_44 value="AsphaltRoadCourse4Expert"/>
+			<lastMotionProfile_44 value="AsphaltRoadCourse1Starter"/>
 			<currentMotionOption value="10"/>
 			<enableUPS value="0"/>
+			<realtimeMoproSwap value="0"/>
 		</Settings>
 	</CraftCon>
 	<CraftwarePC>
@@ -144,7 +145,7 @@
 				<pMR value="100"/>
 				<pPPD value="1572"/>
 				<pmm value="3"/>
-				<rAA value="170"/>
+				<rAA value="140"/>
 				<rAV value="22500"/>
 				<rE value="1"/>
 				<rG value="1"/>
@@ -164,8 +165,8 @@
 				<yMR value="25"/>
 				<yPPD value="787"/>
 				<pDADA value="1"/>
-				<oMC value="45"/>
-				<oIC value="50"/>
+				<oMC value="20"/>
+				<oIC value="10"/>
 				<lP value="0"/>
 				<lPP value="C:\Program Files (x86)\zBlueSoftware\Z1 Dashboard\Z1Dashboard.exe"/>
 				<pROM value="100"/>
