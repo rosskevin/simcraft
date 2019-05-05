@@ -46,7 +46,7 @@
 			<yomdK value="m"/>
 			<hud value="0"/>
 			<cI value="0"/>
-			<lastMotionProfile value="AsphaltRoadCourse4Expert"/>
+			<lastMotionProfile value="AsphaltRoadCourse3Pro"/>
 			<updatesRequired value="0"/>
 			<continueUpdates value="0"/>
 			<lastModuleSelected value="0"/>
@@ -62,7 +62,7 @@
 			<usbRelayPresent value="0"/>
 			<enablePark value="0"/>
 			<eStop value="0"/>
-			<lastMotionProfile_44 value="AsphaltRoadCourse4Expert"/>
+			<lastMotionProfile_44 value="AsphaltRoadCourse3Pro"/>
 			<currentMotionOption value="10"/>
 			<enableUPS value="0"/>
 			<realtimeMoproSwap value="0"/>
@@ -136,7 +136,7 @@
 				<oMP value="100"/>
 				<oMR value="100"/>
 				<oMY value="0"/>
-				<pAA value="181"/>
+				<pAA value="180"/>
 				<pAV value="22500"/>
 				<pDAA value="1"/>
 				<pDAS value="1"/>
@@ -167,7 +167,7 @@
 				<yPPD value="787"/>
 				<pDADA value="1"/>
 				<oMC value="50"/>
-				<oIC value="50"/>
+				<oIC value="35"/>
 				<lP value="0"/>
 				<lPP value="C:\Program Files (x86)\zBlueSoftware\Z1 Dashboard\Z1Dashboard.exe"/>
 				<pROM value="100"/>
