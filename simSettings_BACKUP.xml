@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <root>
 	<CraftCon>
-		<craftConVersion value="v2.8.100"/>
+		<craftConVersion value="v2.8.103"/>
 		<scInstalledGameModules>
 			<gameModule0 value="0"/>
 			<gameModule44 value="1"/>
@@ -25,7 +25,7 @@
 			<pauK value="5"/>
 			<padK value="6"/>
 			<yauK value="x"/>
-			<yadK value="z"/>
+			<yadK value="0"/>
 			<riuK value="r"/>
 			<ridK value="e"/>
 			<piuK value="f"/>
@@ -46,7 +46,7 @@
 			<yomdK value="m"/>
 			<hud value="0"/>
 			<cI value="0"/>
-			<lastMotionProfile value="AsphaltRoadCourse1Starter"/>
+			<lastMotionProfile value="AsphaltRoadCourse3Pro"/>
 			<updatesRequired value="0"/>
 			<continueUpdates value="0"/>
 			<lastModuleSelected value="0"/>
@@ -62,10 +62,11 @@
 			<usbRelayPresent value="0"/>
 			<enablePark value="0"/>
 			<eStop value="0"/>
-			<lastMotionProfile_44 value="AsphaltRoadCourse1Starter"/>
+			<lastMotionProfile_44 value="AsphaltRoadCourse3Pro"/>
 			<currentMotionOption value="10"/>
 			<enableUPS value="0"/>
 			<realtimeMoproSwap value="0"/>
+			<lastAxis value="2"/>
 		</Settings>
 	</CraftCon>
 	<CraftwarePC>
@@ -165,8 +166,8 @@
 				<yMR value="25"/>
 				<yPPD value="787"/>
 				<pDADA value="1"/>
-				<oMC value="20"/>
-				<oIC value="10"/>
+				<oMC value="50"/>
+				<oIC value="35"/>
 				<lP value="0"/>
 				<lPP value="C:\Program Files (x86)\zBlueSoftware\Z1 Dashboard\Z1Dashboard.exe"/>
 				<pROM value="100"/>
