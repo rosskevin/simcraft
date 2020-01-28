@@ -134,7 +134,7 @@
 				<mAY value="10"/>
 				<mP value="0"/>
 				<oMP value="100"/>
-				<oMR value="100"/>
+				<oMR value="99"/>
 				<oMY value="0"/>
 				<pAA value="180"/>
 				<pAV value="22500"/>
@@ -166,8 +166,8 @@
 				<yMR value="25"/>
 				<yPPD value="787"/>
 				<pDADA value="1"/>
-				<oMC value="15"/>
-				<oIC value="80"/>
+				<oMC value="40"/>
+				<oIC value="25"/>
 				<lP value="0"/>
 				<lPP value="C:\Program Files (x86)\zBlueSoftware\Z1 Dashboard\Z1Dashboard.exe"/>
 				<pROM value="100"/>
