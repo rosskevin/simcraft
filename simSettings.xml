@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <root>
 	<CraftCon>
-		<craftConVersion value="v2.8.103"/>
+		<craftConVersion value="v2.8.129"/>
 		<scInstalledGameModules>
 			<gameModule0 value="0"/>
 			<gameModule44 value="1"/>
@@ -66,7 +66,7 @@
 			<currentMotionOption value="10"/>
 			<enableUPS value="0"/>
 			<realtimeMoproSwap value="0"/>
-			<lastAxis value="2"/>
+			<lastAxis value="0"/>
 		</Settings>
 	</CraftCon>
 	<CraftwarePC>
@@ -134,7 +134,7 @@
 				<mAY value="10"/>
 				<mP value="0"/>
 				<oMP value="100"/>
-				<oMR value="99"/>
+				<oMR value="100"/>
 				<oMY value="0"/>
 				<pAA value="180"/>
 				<pAV value="22500"/>
@@ -166,8 +166,8 @@
 				<yMR value="25"/>
 				<yPPD value="787"/>
 				<pDADA value="1"/>
-				<oMC value="40"/>
-				<oIC value="25"/>
+				<oMC value="50"/>
+				<oIC value="45"/>
 				<lP value="0"/>
 				<lPP value="C:\Program Files (x86)\zBlueSoftware\Z1 Dashboard\Z1Dashboard.exe"/>
 				<pROM value="100"/>
@@ -228,6 +228,7 @@
 				<rVC value="0"/>
 				<pVC value="0"/>
 				<yVC value="0"/>
+				<hAA value="0"/>
 			</Settings>
 		</scGM44>
 	</CraftwarePC>
