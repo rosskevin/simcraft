@@ -50,7 +50,7 @@
 		<yPPD value="787"/>
 		<pDADA value="1"/>
 		<oMC value="50"/>
-		<oIC value="50"/>
+		<oIC value="45"/>
 		<lP value="0"/>
 		<lPP value="C:\Program Files (x86)\zBlueSoftware\Z1 Dashboard\Z1Dashboard.exe"/>
 		<pROM value="100"/>
@@ -111,6 +111,7 @@
 		<rVC value="0"/>
 		<pVC value="0"/>
 		<yVC value="0"/>
+		<hAA value="0"/>
 	</Settings>
 </scGM44>
 </root>
