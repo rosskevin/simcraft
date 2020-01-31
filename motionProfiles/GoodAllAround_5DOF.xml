@@ -52,7 +52,7 @@
 		<oMC value="100"/>
 		<oIC value="100"/>
 		<lP value="0"/>
-		<lPP value="C:\Program Files (x86)\zBlueSoftware\Z1 Dashboard\Z1Dashboard.exe"/>
+		<lPP value=""/>
 		<pROM value="100"/>
 		<rROM value="70"/>
 		<yROM value="85"/>
@@ -67,10 +67,10 @@
 		<yamc value="5"/>
 		<ais value="0"/>
 		<dasry value="1"/>
-		<sgE value="1"/>
+		<sgE value="0"/>
 		<aMSG value="100"/>
 		<oMSG value="0"/>
-		<syE value="1"/>
+		<syE value="0"/>
 		<aMSY value="29"/>
 		<oMSY value="0"/>
 		<hE value="0"/>
