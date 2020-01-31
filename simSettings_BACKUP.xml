@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <root>
 	<CraftCon>
-		<craftConVersion value="v2.8.103"/>
+		<craftConVersion value="v2.8.129"/>
 		<scInstalledGameModules>
 			<gameModule0 value="0"/>
 			<gameModule44 value="1"/>
@@ -48,7 +48,7 @@
 			<cI value="0"/>
 			<lastMotionProfile value="AsphaltRoadCourse4Expert"/>
 			<updatesRequired value="0"/>
-			<continueUpdates value="1"/>
+			<continueUpdates value="0"/>
 			<lastModuleSelected value="0"/>
 			<launchJoyToKey value="0"/>
 			<craftconSystemSetup value="1"/>
