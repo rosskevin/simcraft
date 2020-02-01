@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <root>
 	<CraftCon>
-		<craftConVersion value="v2.8.129"/>
+		<craftConVersion value="v2.8.131"/>
 		<scInstalledGameModules>
 			<gameModule0 value="0"/>
 			<gameModule44 value="1"/>
