@@ -8,7 +8,7 @@
 		</scInstalledGameModules>
 		<Settings value="0">
 			<lastActiveModule value="iRacing.com Motorsport Simulations 2.0"/>
-			<installPath value="C:\Program Files (x86)\SimCraft\Craft Control Panel v2.0\"/>
+			<installPath value="C:\Program Files\SimCraft\Craft Control Panel v3.0\"/>
 			<showGMP value="1"/>
 			<showCCP value="0"/>
 			<stopOnKeyStroke value="0"/>
@@ -46,18 +46,18 @@
 			<yomdK value="m"/>
 			<hud value="0"/>
 			<cI value="0"/>
-			<lastMotionProfile value="Pumpelly"/>
+			<lastMotionProfile value=""/>
 			<updatesRequired value="0"/>
 			<continueUpdates value="0"/>
 			<lastModuleSelected value="0"/>
 			<launchJoyToKey value="0"/>
-			<craftconSystemSetup value="1"/>
+			<craftconSystemSetup value="2"/>
 			<adjustmentSoundEffects value="1"/>
 			<mpupK value="&apos;"/>
 			<mpdownK value="`"/>
 			<jumpID value="-1"/>
 			<FASMotion value="1"/>
-			<promptToInit value="0"/>
+			<promptToInit value="1"/>
 			<DemoMode value="0"/>
 			<usbRelayPresent value="0"/>
 			<enablePark value="0"/>
@@ -67,6 +67,7 @@
 			<enableUPS value="0"/>
 			<realtimeMoproSwap value="0"/>
 			<lastAxis value="0"/>
+			<AudioDevice value="49S517 (NVIDIA High Definition "/>
 		</Settings>
 	</CraftCon>
 	<CraftwarePC>
@@ -146,7 +147,7 @@
 				<pMR value="18"/>
 				<pPPD value="2600"/>
 				<pmm value="3"/>
-				<rAA value="250"/>
+				<rAA value="251"/>
 				<rAV value="22500"/>
 				<rE value="1"/>
 				<rG value="1"/>
