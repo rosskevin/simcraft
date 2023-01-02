@@ -259,4 +259,16 @@
 			</Settings>
 		</scGM44>		
 	</CraftwarePC>
+</root>yTH value="10"/>
+				<hFreq value="16"/>
+				<hTH value="10"/>
+				<pRev value="0"/>
+				<rRev value="0"/>
+				<yRev value="0"/>
+				<sgRev value="0"/>
+				<syRev value="0"/>
+				<hRev value="0"/>
+			</Settings>
+		</scGM44>		
+	</CraftwarePC>
 </root>
