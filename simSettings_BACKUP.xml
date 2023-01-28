@@ -9,7 +9,7 @@
 		<Settings value="0">
 			<lastActiveModule value="iRacing.com Motorsport Simulations"/>
 			<installPath value="C:\Program Files\SimCraft\Craft Control Panel v3.0\"/>
-			<showGMP value="0"/>
+			<showGMP value="1"/>
 			<showCCP value="0"/>
 			<stopOnKeyStroke value="0"/>
 			<launchLastActive value="0"/>
@@ -66,11 +66,31 @@
 			<currentMotionOption value="10"/>
 			<enableUPS value="0"/>
 			<realtimeMoproSwap value="0"/>
-			<lastAxis value="0"/>
-			<AudioDevice value="Index HMD (NVIDIA High Definiti"/>
+			<lastAxis value="3"/>
+			<AudioDevice value="Speakers (Realtek(R) Audio)"/>
 			<VRInstalled value="1"/>
 			<enableBypass value="1"/>
 			<seatSensorInstalled value="0"/>
+			<sgauK value=""/>
+			<sgadK value=""/>
+			<syauK value=""/>
+			<syadK value=""/>
+			<hauK value=""/>
+			<hadK value=""/>
+			<sgiuK value=""/>
+			<sgidK value=""/>
+			<syiuK value=""/>
+			<syidK value=""/>
+			<hiuK value=""/>
+			<hidK value=""/>
+			<sgamuK value=""/>
+			<sgamdK value=""/>
+			<syamuK value=""/>
+			<syamdK value=""/>
+			<hamuK value=""/>
+			<hamdK value=""/>
+			<homuK value=""/>
+			<homdK value=""/>
 		</Settings>
 	</CraftCon>
 	<CraftwarePC>
@@ -127,9 +147,9 @@
 			<swayComPort value="-1"/>
 			<heaveComPort value="-1"/>
 			<landingPadInstalled value="0"/>
-			<lastRollPos value="-8818"/>
-			<lastPitchPos value="-8792"/>
-			<lastYawPos value="-8523"/>
+			<lastRollPos value="0"/>
+			<lastPitchPos value="0"/>
+			<lastYawPos value="0"/>
 			<lastSurgePos value="0"/>
 			<lastSwayPos value="0"/>
 			<lastHeavePos value="0"/>
@@ -137,7 +157,7 @@
 			<absMINPos value="0"/>
 			<absMAXPos value="0"/>
 			<absABSPos value="0"/>
-			<lastVar value="6"/>
+			<lastVar value="9"/>
 		</Settings>
 		<scGM44>
 			<Settings>
@@ -156,7 +176,7 @@
 				<mAY value="10"/>
 				<mP value="0"/>
 				<oMP value="100"/>
-				<oMR value="96"/>
+				<oMR value="94"/>
 				<oMY value="0"/>
 				<pAA value="300"/>
 				<pAV value="22500"/>
@@ -207,10 +227,10 @@
 				<ais value="0"/>
 				<dasry value="1"/>
 				<sgE value="0"/>
-				<aMSG value="90"/>
+				<aMSG value="74"/>
 				<oMSG value="0"/>
 				<syE value="0"/>
-				<aMSY value="70"/>
+				<aMSY value="66"/>
 				<oMSY value="0"/>
 				<hE value="0"/>
 				<aMH value="100"/>
@@ -228,7 +248,7 @@
 				<rAD value="50"/>
 				<yAD value="50"/>
 				<sgMR value="20"/>
-				<sgAA value="51"/>
+				<sgAA value="229"/>
 				<sgAD value="50"/>
 				<syMR value="15"/>
 				<syAA value="1"/>
@@ -269,6 +289,12 @@
 				<hAA value="1000"/>
 				<dasrh value="10"/>
 				<UDVL value="1"/>
+				<pRev value="0"/>
+				<rRev value="0"/>
+				<yRev value="0"/>
+				<sgRev value="0"/>
+				<syRev value="0"/>
+				<hRev value="0"/>
 			</Settings>
 		</scGM44>
 	</CraftwarePC>
