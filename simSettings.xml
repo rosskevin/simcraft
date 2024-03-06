@@ -47,7 +47,7 @@
 			<yomdK value="m"/>
 			<hud value="0"/>
 			<cI value="0"/>
-			<lastMotionProfile value="GoodAllAround_5DOF"/>
+			<lastMotionProfile value="AllAround_kross"/>
 			<updatesRequired value="0"/>
 			<continueUpdates value="0"/>
 			<lastModuleSelected value="0"/>
@@ -61,7 +61,7 @@
 			<promptToInit value="0"/>
 			<enableBypass value="1"/>
 			<eStop value="0"/>
-			<lastMotionProfile_44 value="GoodAllAround_5DOF"/>
+			<lastMotionProfile_44 value="AllAround_kross"/>
 			<bypassBrakeCheck value="0"/>
 			<AudioDevice value="Speakers (Realtek(R) Audio)"/>
 			<globalAccept value="1"/>
@@ -69,6 +69,7 @@
 			<usbRelayPresent value="0"/>
 			<enablePark value="0"/>
 			<seatSensorInstalled value="0"/>
+			<lastAxis value="1"/>
 		</Settings>
 	</CraftCon>
 	<CraftwarePC>
@@ -132,12 +133,13 @@
 			<maxSurgePositions value="0"/>
 			<maxSwayPositions value="0"/>
 			<landingPadInstalled value="0"/>
-			<lastRollPos value="-10027"/>
-			<lastPitchPos value="-10471"/>
+			<lastRollPos value="-9961"/>
+			<lastPitchPos value="-9756"/>
 			<lastYawPos value="-7500"/>
 			<lastSurgePos value="0"/>
 			<lastSwayPos value="0"/>
 			<lastHeavePos value="0"/>
+			<lastVar value="19"/>
 		</Settings>
 		<scGM44>
 			<Settings>
@@ -155,7 +157,7 @@
 				<mAR value="10"/>
 				<mAY value="10"/>
 				<mP value="0"/>
-				<oMP value="60"/>
+				<oMP value="30"/>
 				<oMR value="100"/>
 				<oMY value="0"/>
 				<pAA value="75"/>
